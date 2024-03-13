@@ -1,0 +1,2 @@
+# satosi
+Django + bitcoin
